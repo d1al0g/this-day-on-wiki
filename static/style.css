@@ -1,0 +1,15 @@
+body {
+    background-color: #2D5EAD;
+    color: #FFFFFF;
+    font-size: 2em;
+    font-family: helvetica;
+    text-align: center;
+}
+
+div {
+    width: 60%;
+    height: 40%;
+    position: relative;
+    margin: auto;
+    top: 50px;
+}
