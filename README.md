@@ -1,2 +1,2 @@
 # wikipedia-reader
-returns random wiki page, or search for specific page, in easy to read format
+returns todays wiki page, a search for specific page, or enter /r Uri for a random page in easy to read format.
