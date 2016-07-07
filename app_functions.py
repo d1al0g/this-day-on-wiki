@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup as Bs
 import requests
 
 def getSoup(baseUrl, append):
