@@ -1,6 +1,6 @@
 from app_functions import getSoup, getStories, getFullPage
 
-from flask import Flask, render_template
+from flask import Flask
 
 
 app = Flask(__name__)
