@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup as Bs
+from flask import render_template
 import requests
 
 def getSoup(baseUrl, append):
