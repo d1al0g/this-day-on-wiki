@@ -1,8 +1,6 @@
 from app_functions import getSoup, getStories, getFullPage
 
-from bs4 import BeautifulSoup as Bs
 from flask import Flask, render_template
-import requests
 
 
 app = Flask(__name__)
